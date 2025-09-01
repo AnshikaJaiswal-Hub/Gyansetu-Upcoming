@@ -126,34 +126,6 @@ const statusEmojis: { [key: string]: string } = {
   'cancelled': '🔴',
   'completed': '✅'
 };
-  'Music': '🎵',
-  'Physical Education': '⚽',
-  'Economics': '💰',
-  'Psychology': '🧠',
-  'Literature': '📖',
-  'Philosophy': '🤔',
-  'Sociology': '👥',
-  'Political Science': '🗳️',
-  'Environmental Science': '🌱',
-  'Astronomy': '🌌',
-  'Statistics': '📊'
-};
-
-// Platform emojis mapping
-const platformEmojis: { [key: string]: string } = {
-  'zoom': '📹',
-  'google-meet': '🎥',
-  'teams': '💼',
-  'other': '🔗'
-};
-
-// Status emojis mapping
-const statusEmojis: { [key: string]: string } = {
-  'ongoing': '🟢',
-  'upcoming': '🔵',
-  'cancelled': '🔴',
-  'completed': '✅'
-};
 
 // Enhanced sample data
 const sampleStudents: Student[] = [
